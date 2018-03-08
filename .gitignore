@@ -301,3 +301,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.dt
+*.bin
+*.metadata
+*.inspxeproj
+*.mtx
